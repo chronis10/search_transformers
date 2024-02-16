@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+# libomp-dev
+faiss-cpu
+sentence-transformers
+# faiss-gpu
+# unicodedata
+transformers
+torch
+openpyxl
